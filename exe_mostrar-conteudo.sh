@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 echo "Informe o caminho absoluto do arquivo!"
 echo -e "Ex: /etc/resolv.conf\n"
 read -p "=> " CAMINHO
