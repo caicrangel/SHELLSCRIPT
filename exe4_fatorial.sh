@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Solicita ao usuário que digite um número
+# Solicita ao usuário que digite um número 
 echo "Digite um número para calcular o fatorial:"
 read numero
 
