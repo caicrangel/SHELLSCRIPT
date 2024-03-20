@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#1º coletar o valor do usuario
+#1º coletar o valor do usuario 
 
 read -p "Digite um valor: " N
 
